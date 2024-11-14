@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Juan Carlos</h1>
 
-<img src="https://photos.app.goo.gl/3TSfCSrV1SHM64Tk6" align="center" alt="berkeli header image">
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczM8AG1DJ410ekg65DTE4AcEV45QBMZ4kEC1SIW1JTUJMZqqjFJtwQ6a=w1069-h600-s-no-gm?authuser=0" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
