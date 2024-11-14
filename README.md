@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, Soy Juan Carlos</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://web.facebook.com/share/1AfbXU9nbU/" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hola 👋, soy Juan Carlos Chahuayo Martinez, estudiante de Ingenieria de Sistemas, apasionao por la programación.</h3>
 &emsp;
 
 -------------------
