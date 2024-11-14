@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Juan Carlos</h1>
 
-<img src="https://drive.google.com/file/d/1MXXi8nyVzM3-wto1QiPdSrq-dNnzz-6o/view?usp=sharing" align="center" alt="berkeli header image">
+<img src="[https://drive.google.com/file/d/1MXXi8nyVzM3-wto1QiPdSrq-dNnzz-6o/view?usp=sharing](https://drive.google.com/file/d/1MXXi8nyVzM3-wto1QiPdSrq-dNnzz-6o/view?usp=drive_link)" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
