@@ -4,7 +4,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hola 👋, soy Juan Carlos Chahuayo Martinez, estudiante de Ingenieria de Sistemas, apasionao por la programación.</h3>
+<h3 align="left">Hola 👋, soy Juan Carlos Chahuayo Martinez, estudiante de Ingenieria de Sistemas, apasionado por la programación.</h3>
 &emsp;
 
 -------------------
