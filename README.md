@@ -14,7 +14,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/devjuancarlos10/">
-    ![Linkedin: devjuancarlos10](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: devjuancarlos10](https://img.shields.io/badge/-devjuancarlos10-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://x.com/devjuancarlos">
     ![Twitter: devjuancarlos](https://img.shields.io/twitter/follow/devjuancarlos?style=social)
