@@ -82,7 +82,7 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=devjuancarlos10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="devjauncarlos's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=devjuancarlos10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
 Credit: [devjuancarlos10](https://github.com/devjuancarlos10)
