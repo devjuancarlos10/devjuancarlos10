@@ -17,13 +17,13 @@
     ![Linkedin: devjuancarlos10](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://x.com/devjuancarlos">
-    ![Twitter: devjuancarlos](https://img.shields.io/twitter/follow/halmyradov?style=social)
+    ![Twitter: devjuancarlos](https://img.shields.io/twitter/follow/devjuancarlos?style=social)
 </a>
 <a href="https://www.instagram.com/devjuancarlos/">
-    ![Instagram: devjuancarlos](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+    ![Instagram: devjuancarlos](https://img.shields.io/badge/-devjuancarlos-000?&logo=Instagram)
 </a>
 <a href="https://github.com/devjuancarlos10">
-    ![GitHub: devjuancarlos10](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub: devjuancarlos10](https://img.shields.io/github/followers/devjuancarlos10?label=follow&style=social)
 </a>
 
 
